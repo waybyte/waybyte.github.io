@@ -1,0 +1,73 @@
+{
+	"packages": [
+		{
+			"name": "siwigsm",
+			"maintainer": "SiWi Embedded Solutions",
+			"websiteURL": "https://siwi.in",
+			"email": "techsupport@siwi.in",
+			"help": {
+				"online": "https://help.siwi.in"
+			},
+			"tools": [
+				{
+					"systems": [
+						{
+							"host": "i686-mingw32",
+							"checksum": "SHA-256:0fefa5c778c25a031b9123fb1e0c5d65c5fc69370fc0b53b27bdf14624f74fbf",
+							"size": "133110890",
+							"archiveFileName": "gcc-arm-none-eabi-8-2018-q4.tar.gz",
+							"url": "https://siwi.in/packages/gcc-arm-none-eabi-8-2018-q4.tar.gz"
+						}
+					],
+					"name": "gcc-arm-none-eabi",
+					"version": "8_2-2018q4"
+				},
+				{
+					"systems": [
+						{
+							"host": "i686-mingw32",
+							"checksum": "SHA-256:e6774143076122ec9a2a52ea7a7cb302f84e97edc5019fb1e9f47348f9b56d4f",
+							"size": "10599392",
+							"archiveFileName": "tool-siwiflasher_v1.1.0.tar.gz",
+							"url": "https://siwi.in/packages/tool-siwiflasher_v1.1.0.tar.gz"
+						}
+					],
+					"name": "siwiflasher",
+					"version": "1.1.0"
+				}
+			],
+			"platforms": [
+				{
+					"name": "SIWIGSM Arduino Boards",
+					"architecture": "arm",
+					"version": "0.1.0",
+					"category": "Contributed",
+					"archiveFileName": "siwiduino.zip",
+					"checksum": "SHA-256:3ec545489df98ae7a0ea869d92e512d61427200088f52c37a39a0173dda45ee1",
+					"help": {
+						"online": "https://help.siwi.in"
+					},
+					"url": "https://siwi.in/packages/siwiduino.zip",
+					"boards": [
+						{
+							"name": "S20GSM"
+						}
+					],
+					"toolsDependencies": [
+						{
+							"name": "gcc-arm-none-eabi",
+							"packager": "siwigsm",
+							"version": "8_2-2018q4"
+						},
+						{
+							"name": "siwiflasher",
+							"packager":"siwigsm",
+							"version": "1.1.0"
+						}
+					],
+					"size": "821805"
+				}
+			]
+		}
+	]
+}
