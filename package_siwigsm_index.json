@@ -42,12 +42,12 @@
                     "architecture": "arm",
                     "version": "0.1.0",
                     "category": "Contributed",
-                    "archiveFileName": "siwiduino.zip",
-                    "checksum": "SHA-256:3ec545489df98ae7a0ea869d92e512d61427200088f52c37a39a0173dda45ee1",
+                    "archiveFileName": "siwiduino_v0.1.0.tar.gz",
+                    "checksum": "SHA256:5a2a7339e7b2e57e0942bdaa35a1ae44e593aa4530e900aaa49d45d0fa6a819b",
                     "help": {
                         "online": "https://help.siwi.in"
                     },
-                    "url": "https://siwi.in/packages/siwiduino.zip",
+                    "url": "https://siwiembedded.github.io/siwiduino_v0.1.0.tar.gz",
                     "boards": [
                         {
                             "name": "S20GSM"
@@ -65,7 +65,7 @@
                             "version": "1.1.0"
                         }
                     ],
-                    "size": "821805"
+                    "size": "555258"
                 }
             ]
         }
