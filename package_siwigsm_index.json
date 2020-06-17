@@ -26,14 +26,14 @@
                     "systems": [
                         {
                             "host": "i686-mingw32",
-                            "checksum": "SHA256:4d09e75e7c5a2188b09d23bb9139eacb71b036b93d17a2b8b439890d40abd7f3",
-                            "size": "10600718",
-                            "archiveFileName": "tool-siwiflasher_v1.1.1.tar.gz",
-                            "url": "https://siwiembedded.github.io/tool-siwiflasher_v1.1.1.tar.gz"
+                            "checksum": "SHA256:631bc901b64e40a69f835148dbb9e86d9721f77a6ddcd4055f72e821aa6b774d",
+                            "size": "10600321",
+                            "archiveFileName": "tool-siwiflasher_v1.2.1.tar.gz",
+                            "url": "https://siwiembedded.github.io/tool-siwiflasher_v1.2.1.tar.gz"
                         }
                     ],
                     "name": "siwiflasher",
-                    "version": "1.1.1"
+                    "version": "1.2.1"
                 }
             ],
             "platforms": [
@@ -62,7 +62,7 @@
                         {
                             "name": "siwiflasher",
                             "packager": "siwigsm",
-                            "version": "1.1.0"
+                            "version": "1.2.1"
                         }
                     ],
                     "size": "555258"
