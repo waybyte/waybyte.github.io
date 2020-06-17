@@ -26,7 +26,7 @@
                     "systems": [
                         {
                             "host": "i686-mingw32",
-                            "checksum": "SHA256:631bc901b64e40a69f835148dbb9e86d9721f77a6ddcd4055f72e821aa6b774d",
+                            "checksum": "SHA-256:631bc901b64e40a69f835148dbb9e86d9721f77a6ddcd4055f72e821aa6b774d",
                             "size": "10600321",
                             "archiveFileName": "tool-siwiflasher_v1.2.1.tar.gz",
                             "url": "https://siwiembedded.github.io/tool-siwiflasher_v1.2.1.tar.gz"
@@ -43,7 +43,7 @@
                     "version": "0.2.0",
                     "category": "Contributed",
                     "archiveFileName": "siwiduino_v0.2.0.tar.gz",
-                    "checksum": "SHA256:4a4c792ef2730780c48285abb5f843ed0fdf1d13984bba226e6fc9341be4ca62",
+                    "checksum": "SHA-256:4a4c792ef2730780c48285abb5f843ed0fdf1d13984bba226e6fc9341be4ca62",
                     "help": {
                         "online": "https://help.siwi.in"
                     },
