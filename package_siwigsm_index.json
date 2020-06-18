@@ -26,8 +26,8 @@
                     "systems": [
                         {
                             "host": "i686-mingw32",
-                            "checksum": "SHA-256:631bc901b64e40a69f835148dbb9e86d9721f77a6ddcd4055f72e821aa6b774d",
-                            "size": "10600321",
+                            "checksum": "SHA-256:93b6a56ebc11e70bd478aac7a4439e8ce6a0feebc33e7e3e528c034ebedef4f0",
+                            "size": "10600348",
                             "archiveFileName": "tool-siwiflasher_v1.2.1.tar.gz",
                             "url": "https://siwiembedded.github.io/tool-siwiflasher_v1.2.1.tar.gz"
                         }

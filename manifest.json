@@ -9,17 +9,7 @@
     ],
     "tool-siwiflasher": [
         {
-            "sha1": "410eeb5585158c4e9e1e9479f358b502e5696c3a",
-            "system": [
-                "windows",
-                "windows_amd64",
-                "windows_x86"
-            ],
-            "url": "https://siwiembedded.github.io/siwiflasher_v1.2.0.tar.gz",
-            "version": "1.2.0"
-        },
-        {
-            "sha1": "c8bf031abae63e0f9b8325a0a2b51dc9c9c76bfc",
+            "sha1": "1ccaf0b9d75b15915e006df57df11fbcecb89771",
             "system": [
                 "windows",
                 "windows_amd64",
