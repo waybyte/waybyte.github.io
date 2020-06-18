@@ -40,14 +40,14 @@
                 {
                     "name": "SIWIGSM Arduino Boards",
                     "architecture": "arm",
-                    "version": "0.2.0",
+                    "version": "0.3.0",
                     "category": "Contributed",
-                    "archiveFileName": "siwiduino_v0.2.0.tar.gz",
-                    "checksum": "SHA-256:4a4c792ef2730780c48285abb5f843ed0fdf1d13984bba226e6fc9341be4ca62",
+                    "archiveFileName": "siwiduino_v0.3.0.tar.gz",
+                    "checksum": "SHA-256:260a6ec0f5d90aa380d7036fa481544345f5a93c6875ddfd1ea20d194a2cbc2f",
                     "help": {
                         "online": "https://help.siwi.in"
                     },
-                    "url": "https://siwiembedded.github.io/siwiduino_v0.2.0.tar.gz",
+                    "url": "https://siwiembedded.github.io/siwiduino_v0.3.0.tar.gz",
                     "boards": [
                         {
                             "name": "S20GSM"
@@ -65,7 +65,7 @@
                             "version": "1.2.1"
                         }
                     ],
-                    "size": "555988"
+                    "size": "556239"
                 }
             ]
         }

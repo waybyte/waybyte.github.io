@@ -7,6 +7,14 @@
             "version": "0.4.0"
         }
     ],
+    "framework-siwiduino": [
+        {
+            "sha1": "99b42e29de63d79c55a93a565241e49b0906df3d",
+            "system": "*",
+            "url": "https://siwiembedded.github.io/siwiduino_v0.3.0.tar.gz",
+            "version": "0.3.0"
+        }
+    ],
     "tool-siwiflasher": [
         {
             "sha1": "1ccaf0b9d75b15915e006df57df11fbcecb89771",
