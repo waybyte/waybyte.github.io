@@ -13,6 +13,12 @@
             "system": "*",
             "url": "https://siwiembedded.github.io/siwiduino_v0.3.0.tar.gz",
             "version": "0.3.0"
+        },
+        {
+            "sha1": "e1af34af176d0970bab289bc04ad447f869fd610",
+            "system": "*",
+            "url": "https://siwiembedded.github.io/siwiduino_v0.4.0.tar.gz",
+            "version": "0.4.0"
         }
     ],
     "tool-siwiflasher": [

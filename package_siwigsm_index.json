@@ -66,6 +66,36 @@
                         }
                     ],
                     "size": "556239"
+                },
+                {
+                    "name": "SIWIGSM Arduino Boards",
+                    "architecture": "arm",
+                    "version": "0.4.0",
+                    "category": "Contributed",
+                    "archiveFileName": "siwiduino_v0.4.0.tar.gz",
+                    "checksum": "SHA-256:776ed7cdc12661c0a1260453db5040b64cb4b5d84fb57ee75bb1c07611ae54d3",
+                    "help": {
+                        "online": "https://help.siwi.in"
+                    },
+                    "url": "https://siwiembedded.github.io/siwiduino_v0.4.0.tar.gz",
+                    "boards": [
+                        {
+                            "name": "S20GSM"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "name": "gcc-arm-none-eabi",
+                            "packager": "siwigsm",
+                            "version": "8_2-2018q4"
+                        },
+                        {
+                            "name": "siwiflasher",
+                            "packager": "siwigsm",
+                            "version": "1.2.1"
+                        }
+                    ],
+                    "size": "558478"
                 }
             ]
         }
