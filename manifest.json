@@ -11,7 +11,14 @@
             "system": "*",
             "url": "https://github.com/siwiembedded/siwisdk/archive/v0.5.0.tar.gz",
             "version": "0.5.0"
+        },
+	{
+            "sha1": "1c3c683ee1774d15cadad6bb0d2e6700ef92697e",
+            "system": "*",
+            "url": "https://github.com/siwiembedded/siwisdk/archive/v0.5.1.tar.gz",
+            "version": "0.5.1"
         }
+
     ],
     "framework-siwiduino": [
         {
