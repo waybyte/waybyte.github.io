@@ -13,10 +13,10 @@
             "version": "0.5.0"
         },
 	{
-            "sha1": "1c3c683ee1774d15cadad6bb0d2e6700ef92697e",
+            "sha1": "cb56043cec4a98f40e1f7c54705bc44eb164042a",
             "system": "*",
-            "url": "https://github.com/siwiembedded/siwisdk/archive/v0.5.1.tar.gz",
-            "version": "0.5.1"
+            "url": "https://github.com/siwiembedded/siwisdk/archive/v0.5.2.tar.gz",
+            "version": "0.5.2"
         }
 
     ],
