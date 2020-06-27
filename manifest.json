@@ -12,13 +12,12 @@
             "url": "https://github.com/siwiembedded/siwisdk/archive/v0.5.0.tar.gz",
             "version": "0.5.0"
         },
-	{
+        {
             "sha1": "cb56043cec4a98f40e1f7c54705bc44eb164042a",
             "system": "*",
             "url": "https://github.com/siwiembedded/siwisdk/archive/v0.5.2.tar.gz",
             "version": "0.5.2"
         }
-
     ],
     "framework-siwiduino": [
         {
@@ -44,6 +43,21 @@
             ],
             "url": "https://siwiembedded.github.io/siwiflasher_v1.3.0.tar.gz",
             "version": "1.3.0"
+        },
+        {
+            "sha1": "623d46d2070aa0dea034750bfd032e83e4819948",
+            "system": [
+                "linux_i686",
+                "linux_x86_64",
+                "darwin_i386",
+                "darwin_x86_64",
+                "linux_armv6l",
+                "linux_armv7l",
+                "linux_armv8l",
+                "linux_aarch64"
+            ],
+            "url": "https://siwiembedded.github.io/pysiwiflasher_v0.1.0.tar.gz",
+            "version": "0.1.0"
         }
     ]
 }
