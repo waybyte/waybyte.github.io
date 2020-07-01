@@ -43,21 +43,14 @@
             ],
             "url": "https://siwiembedded.github.io/siwiflasher_v1.3.0.tar.gz",
             "version": "1.3.0"
-        },
+        }
+    ],
+    "tool-pysiwiflasher": [
         {
-            "sha1": "623d46d2070aa0dea034750bfd032e83e4819948",
-            "system": [
-                "linux_i686",
-                "linux_x86_64",
-                "darwin_i386",
-                "darwin_x86_64",
-                "linux_armv6l",
-                "linux_armv7l",
-                "linux_armv8l",
-                "linux_aarch64"
-            ],
-            "url": "https://siwiembedded.github.io/pysiwiflasher_v0.1.0.tar.gz",
-            "version": "0.1.0"
+            "sha1": "6f3c7030b09859350cd0537088cfb331abfdc996",
+            "system": "*",
+            "url": "https://siwiembedded.github.io/pysiwiflasher_v0.2.0.tar.gz",
+            "version": "0.2.0"
         }
     ]
 }
