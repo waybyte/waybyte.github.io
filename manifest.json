@@ -13,9 +13,9 @@
             "version": "0.5.0"
         },
         {
-            "sha1": "cb56043cec4a98f40e1f7c54705bc44eb164042a",
+            "sha1": "9e6e18a7a6c611b7cbb58c2098cc66b84ccb340f",
             "system": "*",
-            "url": "https://siwiembedded.github.io/siwisdk-0.5.2.tar.gz",
+            "url": "https://siwiembedded.github.io/framework-siwisdk-0.5.2.tar.gz",
             "version": "0.5.2"
         }
     ],
