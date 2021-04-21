@@ -1,12 +1,12 @@
 {
     "packages": [
         {
-            "name": "siwigsm",
-            "maintainer": "SiWi Embedded Solutions",
-            "websiteURL": "https://siwi.in",
-            "email": "techsupport@siwi.in",
+            "name": "logicrom",
+            "maintainer": "WAYBYTE Solution",
+            "websiteURL": "https://waybyte.in",
+            "email": "ajay.bhargav@waybyte.in",
             "help": {
-                "online": "https://help.siwi.in"
+                "online": "https://docs.logicrom.com"
             },
             "tools": [
                 {
@@ -59,64 +59,46 @@
             ],
             "platforms": [
                 {
-                    "name": "SIWIGSM Arduino Boards",
+                    "name": "LOGICROM Arduino",
                     "architecture": "arm",
-                    "version": "0.3.0",
+                    "version": "0.5.0",
                     "category": "Contributed",
-                    "archiveFileName": "siwiduino_v0.3.0.tar.gz",
-                    "checksum": "SHA-256:260a6ec0f5d90aa380d7036fa481544345f5a93c6875ddfd1ea20d194a2cbc2f",
+                    "archiveFileName": "arduino_logicrom_v0.5.0.tar.gz",
+                    "checksum": "SHA-256:b83bcb8fcab33ef074f10bdb2f116e8fbb2ffeafe41034d16b7dca3f74e2589f",
                     "help": {
-                        "online": "https://help.siwi.in"
+                        "online": "https://docs.logicrom.com"
                     },
-                    "url": "https://siwiembedded.github.io/siwiduino_v0.3.0.tar.gz",
+                    "url": "https://siwiembedded.github.io/arduino_logicrom_v0.5.0.tar.gz",
                     "boards": [
                         {
-                            "name": "S20GSM"
+                            "name": "S20 GSM Board"
+                        },
+                        {
+                            "name": "Quectel M66"
+                        },
+                        {
+                            "name": "Quectel MC60"
+                        },
+                        {
+                            "name": "Quectel MC20"
+                        },
+                        {
+                            "name": "Quectel M56"
                         }
                     ],
                     "toolsDependencies": [
                         {
                             "name": "gcc-arm-none-eabi",
-                            "packager": "siwigsm",
+                            "packager": "logicrom",
                             "version": "8_2-2018q4"
                         },
                         {
                             "name": "siwiflasher",
-                            "packager": "siwigsm",
+                            "packager": "logicrom",
                             "version": "2.0.0"
                         }
                     ],
-                    "size": "556239"
-                },
-                {
-                    "name": "SIWIGSM Arduino Boards",
-                    "architecture": "arm",
-                    "version": "0.4.0",
-                    "category": "Contributed",
-                    "archiveFileName": "siwiduino_v0.4.0.tar.gz",
-                    "checksum": "SHA-256:776ed7cdc12661c0a1260453db5040b64cb4b5d84fb57ee75bb1c07611ae54d3",
-                    "help": {
-                        "online": "https://help.siwi.in"
-                    },
-                    "url": "https://siwiembedded.github.io/siwiduino_v0.4.0.tar.gz",
-                    "boards": [
-                        {
-                            "name": "S20GSM"
-                        }
-                    ],
-                    "toolsDependencies": [
-                        {
-                            "name": "gcc-arm-none-eabi",
-                            "packager": "siwigsm",
-                            "version": "8_2-2018q4"
-                        },
-                        {
-                            "name": "siwiflasher",
-                            "packager": "siwigsm",
-                            "version": "2.0.0"
-                        }
-                    ],
-                    "size": "558478"
+                    "size": "884320"
                 }
             ]
         }
