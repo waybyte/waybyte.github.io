@@ -16,7 +16,7 @@
                             "checksum": "SHA-256:0fefa5c778c25a031b9123fb1e0c5d65c5fc69370fc0b53b27bdf14624f74fbf",
                             "size": "133110890",
                             "archiveFileName": "gcc-arm-none-eabi-8-2018-q4.tar.gz",
-                            "url": "https://siwi.in/packages/gcc-arm-none-eabi-8-2018-q4.tar.gz"
+                            "url": "https://waybyte.github.io/gcc-arm-none-eabi-8-2018-q4.tar.gz"
                         }
                     ],
                     "name": "gcc-arm-none-eabi",
@@ -26,35 +26,35 @@
                     "systems": [
                         {
                             "host": "i686-mingw32",
-                            "checksum": "SHA-256:7757884a3ce63647586093c2ace83862b3f0d4746d22fea708a9a3947eeb048f",
-                            "size": "10691128",
-                            "archiveFileName": "tool-siwiflasher_v2.0.0.tar.gz",
-                            "url": "https://siwiembedded.github.io/tool-siwiflasher_v2.0.0.tar.gz"
+                            "checksum": "SHA-256:f8c28b48a81fa32d161c2f0cbb41175c7a2eaf8f5563a153682b858d920460d3",
+                            "size": "10678434",
+                            "archiveFileName": "tool-logicromflasher_v2.3.0.tar.gz",
+                            "url": "https://waybyte.github.io/tool-logicromflasher_v2.3.0.tar.gz"
                         },
                         {
                             "host": "i386-apple-darwin11",
-                            "checksum": "SHA-256:7757884a3ce63647586093c2ace83862b3f0d4746d22fea708a9a3947eeb048f",
-                            "size": "10691128",
-                            "archiveFileName": "tool-siwiflasher_v2.0.0.tar.gz",
-                            "url": "https://siwiembedded.github.io/tool-siwiflasher_v2.0.0.tar.gz"
+                            "checksum": "SHA-256:f8c28b48a81fa32d161c2f0cbb41175c7a2eaf8f5563a153682b858d920460d3",
+                            "size": "10678434",
+                            "archiveFileName": "tool-logicromflasher_v2.3.0.tar.gz",
+                            "url": "https://waybyte.github.io/tool-logicromflasher_v2.3.0.tar.gz"
                         },
                         {
                             "host": "i686-linux-gnu",
-                            "checksum": "SHA-256:7757884a3ce63647586093c2ace83862b3f0d4746d22fea708a9a3947eeb048f",
-                            "size": "10691128",
-                            "archiveFileName": "tool-siwiflasher_v2.0.0.tar.gz",
-                            "url": "https://siwiembedded.github.io/tool-siwiflasher_v2.0.0.tar.gz"
+                            "checksum": "SHA-256:f8c28b48a81fa32d161c2f0cbb41175c7a2eaf8f5563a153682b858d920460d3",
+                            "size": "10678434",
+                            "archiveFileName": "tool-logicromflasher_v2.3.0.tar.gz",
+                            "url": "https://waybyte.github.io/tool-logicromflasher_v2.3.0.tar.gz"
                         },
                         {
                             "host": "x86_64-linux-gnu",
-                            "checksum": "SHA-256:7757884a3ce63647586093c2ace83862b3f0d4746d22fea708a9a3947eeb048f",
-                            "size": "10691128",
-                            "archiveFileName": "tool-siwiflasher_v2.0.0.tar.gz",
-                            "url": "https://siwiembedded.github.io/tool-siwiflasher_v2.0.0.tar.gz"
+                            "checksum": "SHA-256:f8c28b48a81fa32d161c2f0cbb41175c7a2eaf8f5563a153682b858d920460d3",
+                            "size": "10678434",
+                            "archiveFileName": "tool-logicromflasher_v2.3.0.tar.gz",
+                            "url": "https://waybyte.github.io/tool-logicromflasher_v2.3.0.tar.gz"
                         }
                     ],
-                    "name": "siwiflasher",
-                    "version": "2.0.0"
+                    "name": "logicromflasher",
+                    "version": "2.3.0"
                 }
             ],
             "platforms": [
@@ -68,7 +68,7 @@
                     "help": {
                         "online": "https://docs.logicrom.com"
                     },
-                    "url": "https://siwiembedded.github.io/arduino_logicrom_v0.5.0.tar.gz",
+                    "url": "https://waybyte.github.io/arduino_logicrom_v0.5.0.tar.gz",
                     "boards": [
                         {
                             "name": "S20 GSM Board"
@@ -93,9 +93,9 @@
                             "version": "8_2-2018q4"
                         },
                         {
-                            "name": "siwiflasher",
+                            "name": "logicromflasher",
                             "packager": "logicrom",
-                            "version": "2.0.0"
+                            "version": "2.3.0"
                         }
                     ],
                     "size": "884320"
