@@ -16,7 +16,7 @@
                             "checksum": "SHA-256:0fefa5c778c25a031b9123fb1e0c5d65c5fc69370fc0b53b27bdf14624f74fbf",
                             "size": "133110890",
                             "archiveFileName": "gcc-arm-none-eabi-8-2018-q4.tar.gz",
-                            "url": "https://waybyte.github.io/gcc-arm-none-eabi-8-2018-q4.tar.gz"
+                            "url": "https://waybyte.in/toolchain/gcc-arm-none-eabi-8-2018-q4.tar.gz"
                         }
                     ],
                     "name": "gcc-arm-none-eabi",
