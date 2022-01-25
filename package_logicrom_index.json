@@ -89,6 +89,40 @@
                     ],
                     "name": "logicromflasher",
                     "version": "2.4.1"
+                },
+                {
+                    "systems": [
+                        {
+                            "host": "i686-mingw32",
+                            "checksum": "SHA-256:c52e2180dcddff2531b14707f74789ca95803b1160bcd4f84eb1f049433f5163",
+                            "size": "10699487",
+                            "archiveFileName": "tool-logicromflasher_v2.5.0.tar.gz",
+                            "url": "https://waybyte.github.io/tool-logicromflasher_v2.5.0.tar.gz"
+                        },
+                        {
+                            "host": "i386-apple-darwin11",
+                            "checksum": "SHA-256:c52e2180dcddff2531b14707f74789ca95803b1160bcd4f84eb1f049433f5163",
+                            "size": "10699487",
+                            "archiveFileName": "tool-logicromflasher_v2.5.0.tar.gz",
+                            "url": "https://waybyte.github.io/tool-logicromflasher_v2.5.0.tar.gz"
+                        },
+                        {
+                            "host": "i686-linux-gnu",
+                            "checksum": "SHA-256:c52e2180dcddff2531b14707f74789ca95803b1160bcd4f84eb1f049433f5163",
+                            "size": "10699487",
+                            "archiveFileName": "tool-logicromflasher_v2.5.0.tar.gz",
+                            "url": "https://waybyte.github.io/tool-logicromflasher_v2.5.0.tar.gz"
+                        },
+                        {
+                            "host": "x86_64-linux-gnu",
+                            "checksum": "SHA-256:c52e2180dcddff2531b14707f74789ca95803b1160bcd4f84eb1f049433f5163",
+                            "size": "10699487",
+                            "archiveFileName": "tool-logicromflasher_v2.5.0.tar.gz",
+                            "url": "https://waybyte.github.io/tool-logicromflasher_v2.5.0.tar.gz"
+                        }
+                    ],
+                    "name": "logicromflasher",
+                    "version": "2.5.0"
                 }
             ],
             "platforms": [
