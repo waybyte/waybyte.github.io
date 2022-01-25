@@ -127,7 +127,7 @@
             ],
             "platforms": [
                 {
-                    "name": "LOGICROM Arduino",
+                    "name": "Logicrom Arduino",
                     "architecture": "arm",
                     "version": "0.5.0",
                     "category": "Contributed",
@@ -169,7 +169,7 @@
                     "size": "884320"
                 },
                 {
-                    "name": "LOGICROM Arduino",
+                    "name": "Logicrom Arduino",
                     "architecture": "arm",
                     "version": "0.7.0",
                     "category": "Contributed",
@@ -187,10 +187,10 @@
                             "name": "Neoway N58 LTE Cat.1 Module"
                         },
                         {
-                            "name": "Quectel EC600 LTE Cat.1 Module"
+                            "name": "Quectel EC600U LTE Cat.1 Module"
                         },
                         {
-                            "name": "Quectel EC200 LTE Cat.1 Module"
+                            "name": "Quectel EC200U LTE Cat.1 Module"
                         },
                         {
                             "name": "S20 GSM Board"
@@ -223,7 +223,7 @@
                     "size": "24662372"
                 },
                 {
-                    "name": "LOGICROM Arduino",
+                    "name": "Logicrom Arduino",
                     "architecture": "arm",
                     "version": "0.8.0",
                     "category": "Contributed",
@@ -241,10 +241,10 @@
                             "name": "Neoway N58 LTE Cat.1 Module"
                         },
                         {
-                            "name": "Quectel EC600 LTE Cat.1 Module"
+                            "name": "Quectel EC600U LTE Cat.1 Module"
                         },
                         {
-                            "name": "Quectel EC200 LTE Cat.1 Module"
+                            "name": "Quectel EC200U LTE Cat.1 Module"
                         },
                         {
                             "name": "Fibocom L610 LTE Cat.1 Module"
