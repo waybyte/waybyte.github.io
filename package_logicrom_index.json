@@ -221,6 +221,63 @@
                         }
                     ],
                     "size": "24662372"
+                },
+                {
+                    "name": "LOGICROM Arduino",
+                    "architecture": "arm",
+                    "version": "0.8.0",
+                    "category": "Contributed",
+                    "archiveFileName": "arduino_logicrom_v0.8.0.tar.gz",
+                    "checksum": "SHA-256:67d4fef82fab0ebad8be76ddeaa0a4b9f064551dff1a1587beae5813e403c7be",
+                    "help": {
+                        "online": "https://docs.logicrom.com"
+                    },
+                    "url": "https://waybyte.github.io/arduino_logicrom_v0.8.0.tar.gz",
+                    "boards": [
+                        {
+                            "name": "Neoway N716 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Neoway N58 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC600 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC200 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Fibocom L610 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "S20 GSM Board"
+                        },
+                        {
+                            "name": "Quectel M66"
+                        },
+                        {
+                            "name": "Quectel MC60"
+                        },
+                        {
+                            "name": "Quectel MC20"
+                        },
+                        {
+                            "name": "Quectel M56"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "name": "gcc-arm-none-eabi",
+                            "packager": "logicrom",
+                            "version": "8_2-2018q4"
+                        },
+                        {
+                            "name": "logicromflasher",
+                            "packager": "logicrom",
+                            "version": "2.5.0"
+                        }
+                    ],
+                    "size": "24692865"
                 }
             ]
         }
