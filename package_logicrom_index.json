@@ -2,8 +2,8 @@
     "packages": [
         {
             "name": "logicrom",
-            "maintainer": "WAYBYTE Solution",
-            "websiteURL": "https://waybyte.in",
+            "maintainer": "Waybyte Solutions",
+            "websiteURL": "https://www.waybyte.in",
             "email": "ajay.bhargav@waybyte.in",
             "help": {
                 "online": "https://docs.logicrom.com"
