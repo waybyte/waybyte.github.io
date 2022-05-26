@@ -23,6 +23,61 @@
                     "version": "8_2-2018q4"
                 },
                 {
+                    "version": "3.7.2-post1",
+                    "name": "python3",
+                    "systems": [
+                        {
+                            "host": "x86_64-mingw32",
+                            "url": "https://www.waybyte.in/arduino-dl/python/python3-3.7.2.post1-embed-win32v2a.zip",
+                            "archiveFileName": "python3-3.7.2.post1-embed-win32v2a.zip",
+                            "checksum": "SHA-256:f57cb2daf86176d2929e7c58990c2ac32554e3219d454dcac10e464ddda35bf2",
+                            "size": "6428926"
+                        },
+                        {
+                            "host": "i686-mingw32",
+                            "url": "https://www.waybyte.in/arduino-dl/python/python3-3.7.2.post1-embed-win32v2a.zip",
+                            "archiveFileName": "python3-3.7.2.post1-embed-win32v2a.zip",
+                            "checksum": "SHA-256:f57cb2daf86176d2929e7c58990c2ac32554e3219d454dcac10e464ddda35bf2",
+                            "size": "6428926"
+                        },
+                        {
+                            "host": "aarch64-linux-gnu",
+                            "url": "https://www.waybyte.in/arduino-dl/python/python3-via-env.tar.gz",
+                            "archiveFileName": "python3-via-env.tar.gz",
+                            "checksum": "SHA-256:c9237bfe0f62842d7187a39495baa4a7e3ab8b87c0b433614294b023cf0bc0f3",
+                            "size": "292"
+                        },
+                        {
+                            "host": "arm-linux-gnueabihf",
+                            "url": "https://www.waybyte.in/arduino-dl/python/python3-via-env.tar.gz",
+                            "archiveFileName": "python3-via-env.tar.gz",
+                            "checksum": "SHA-256:c9237bfe0f62842d7187a39495baa4a7e3ab8b87c0b433614294b023cf0bc0f3",
+                            "size": "292"
+                        },
+                        {
+                            "host": "i686-pc-linux-gnu",
+                            "url": "https://www.waybyte.in/arduino-dl/python/python3-via-env.tar.gz",
+                            "archiveFileName": "python3-via-env.tar.gz",
+                            "checksum": "SHA-256:c9237bfe0f62842d7187a39495baa4a7e3ab8b87c0b433614294b023cf0bc0f3",
+                            "size": "292"
+                        },
+                        {
+                            "host": "x86_64-apple-darwin",
+                            "url": "https://www.waybyte.in/arduino-dl/python/python3-macosx-portable.tar.gz",
+                            "archiveFileName": "python3-macosx-portable.tar.gz",
+                            "checksum": "SHA-256:01a5bf1fa264c6f04cfaadf4c6e9f6caaacb6833ef40104dfbe953fcdb9bca1c",
+                            "size": "25494144"
+                        },
+                        {
+                            "host": "x86_64-pc-linux-gnu",
+                            "url": "https://www.waybyte.in/arduino-dl/python/python3-via-env.tar.gz",
+                            "archiveFileName": "python3-via-env.tar.gz",
+                            "checksum": "SHA-256:c9237bfe0f62842d7187a39495baa4a7e3ab8b87c0b433614294b023cf0bc0f3",
+                            "size": "292"
+                        }
+                    ]
+                },
+                {
                     "systems": [
                         {
                             "host": "i686-mingw32",
