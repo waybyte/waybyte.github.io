@@ -220,28 +220,28 @@
                             "checksum": "SHA-256:d0dc86fda82eb1dbd908d249788deabb868fd795a59b57e28e9328f952a1722f",
                             "size": "10856445",
                             "archiveFileName": "tool-logicromflasher_v2.6.0.tar.gz",
-                            "url": "https://www.waybyte.in/tool-logicromflasher_v2.6.0.tar.gz"
+                            "url": "https://www.waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.6.0.tar.gz"
                         },
                         {
                             "host": "x86_64-apple-darwin",
                             "checksum": "SHA-256:d0dc86fda82eb1dbd908d249788deabb868fd795a59b57e28e9328f952a1722f",
                             "size": "10856445",
                             "archiveFileName": "tool-logicromflasher_v2.6.0.tar.gz",
-                            "url": "https://www.waybyte.in/tool-logicromflasher_v2.6.0.tar.gz"
+                            "url": "https://www.waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.6.0.tar.gz"
                         },
                         {
                             "host": "i686-pc-linux-gnu",
                             "checksum": "SHA-256:d0dc86fda82eb1dbd908d249788deabb868fd795a59b57e28e9328f952a1722f",
                             "size": "10856445",
                             "archiveFileName": "tool-logicromflasher_v2.6.0.tar.gz",
-                            "url": "https://www.waybyte.in/tool-logicromflasher_v2.6.0.tar.gz"
+                            "url": "https://www.waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.6.0.tar.gz"
                         },
                         {
                             "host": "x86_64-pc-linux-gnu",
                             "checksum": "SHA-256:d0dc86fda82eb1dbd908d249788deabb868fd795a59b57e28e9328f952a1722f",
                             "size": "10856445",
                             "archiveFileName": "tool-logicromflasher_v2.6.0.tar.gz",
-                            "url": "https://www.waybyte.in/tool-logicromflasher_v2.6.0.tar.gz"
+                            "url": "https://www.waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.6.0.tar.gz"
                         }
                     ],
                     "name": "logicromflasher",
