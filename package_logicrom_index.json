@@ -246,6 +246,40 @@
                     ],
                     "name": "logicromflasher",
                     "version": "2.6.0"
+                },
+                {
+                    "systems": [
+                        {
+                            "host": "i686-mingw32",
+                            "checksum": "SHA-256:7c8169b539a4040bf7d001bf49bb7d517f98df543b04aa70d844775e376c6221",
+                            "size": "10861422",
+                            "archiveFileName": "tool-logicromflasher_v2.6.1.tar.gz",
+                            "url": "https://www.waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.6.1.tar.gz"
+                        },
+                        {
+                            "host": "x86_64-apple-darwin",
+                            "checksum": "SHA-256:7c8169b539a4040bf7d001bf49bb7d517f98df543b04aa70d844775e376c6221",
+                            "size": "10861422",
+                            "archiveFileName": "tool-logicromflasher_v2.6.1.tar.gz",
+                            "url": "https://www.waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.6.1.tar.gz"
+                        },
+                        {
+                            "host": "i686-pc-linux-gnu",
+                            "checksum": "SHA-256:7c8169b539a4040bf7d001bf49bb7d517f98df543b04aa70d844775e376c6221",
+                            "size": "10861422",
+                            "archiveFileName": "tool-logicromflasher_v2.6.1.tar.gz",
+                            "url": "https://www.waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.6.1.tar.gz"
+                        },
+                        {
+                            "host": "x86_64-pc-linux-gnu",
+                            "checksum": "SHA-256:7c8169b539a4040bf7d001bf49bb7d517f98df543b04aa70d844775e376c6221",
+                            "size": "10861422",
+                            "archiveFileName": "tool-logicromflasher_v2.6.1.tar.gz",
+                            "url": "https://www.waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.6.1.tar.gz"
+                        }
+                    ],
+                    "name": "logicromflasher",
+                    "version": "2.6.1"
                 }
             ],
             "platforms": [
@@ -523,6 +557,71 @@
                         }
                     ],
                     "size": "24724247"
+                },
+                {
+                    "name": "Logicrom Arduino",
+                    "architecture": "arm",
+                    "version": "0.9.2",
+                    "category": "Contributed",
+                    "archiveFileName": "arduino_logicrom_v0.9.2.tar.gz",
+                    "checksum": "SHA-256:ca4b62224bf21f4d7a0dc5b36c2e52d181e69386ba688fdf8b29c70a9fcd5030",
+                    "help": {
+                        "online": "https://docs.logicrom.com"
+                    },
+                    "url": "https://www.waybyte.in/arduino-dl/framework/arduino_logicrom_v0.9.2.tar.gz",
+                    "boards": [
+                        {
+                            "name": "Neoway N716 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Neoway N58 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC600U LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC200U LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EG915U LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Fibocom L610 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "S20 GSM Board"
+                        },
+                        {
+                            "name": "Quectel M66"
+                        },
+                        {
+                            "name": "Quectel MC60"
+                        },
+                        {
+                            "name": "Quectel MC20"
+                        },
+                        {
+                            "name": "Quectel M56"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "name": "gcc-arm-none-eabi",
+                            "packager": "logicrom",
+                            "version": "8_2-2018q4"
+                        },
+                        {
+                            "name": "logicromflasher",
+                            "packager": "logicrom",
+                            "version": "2.6.0"
+                        },
+                        {
+                            "name": "python3",
+                            "packager": "logicrom",
+                            "version": "3.7.2-post1"
+                        }
+                    ],
+                    "size": "24745160"
                 }
             ]
         }
