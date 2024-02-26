@@ -17,10 +17,51 @@
                             "size": "133110890",
                             "archiveFileName": "gcc-arm-none-eabi-8-2018-q4.tar.gz",
                             "url": "https://www.waybyte.in/arduino-dl/toolchain/gcc-arm-none-eabi-8-2018-q4.tar.gz"
+                        },
+                        {
+                            "host": "x86_64-mingw32",
+                            "checksum": "SHA-256:0fefa5c778c25a031b9123fb1e0c5d65c5fc69370fc0b53b27bdf14624f74fbf",
+                            "size": "133110890",
+                            "archiveFileName": "gcc-arm-none-eabi-8-2018-q4.tar.gz",
+                            "url": "https://www.waybyte.in/arduino-dl/toolchain/gcc-arm-none-eabi-8-2018-q4.tar.gz"
+                        },
+                        {
+                            "host": "x86_64-apple-darwin",
+                            "url": "https://www.waybyte.in/arduino-dl/toolchain/gcc-arm-none-eabi-8-2018-q4-major-mac.tar.gz",
+                            "archiveFileName": "gcc-arm-none-eabi-8-2018-q4-major-mac.tar.gz",
+                            "checksum": "SHA-256:974beee2569a7b8f9ec0f671ea2a8be0a64e34d664d59d75a5730377ff33e02b",
+                            "size": "129860329"
+                        },
+                        {
+                            "host": "x86_64-pc-linux-gnu",
+                            "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-8-2018-q4-major-linux.tar.gz",
+                            "archiveFileName": "gcc-arm-none-eabi-8-2018-q4-major-linux.tar.gz",
+                            "checksum": "SHA-256:1185fd567512d53b0c525b5c9a15508fdf3a03a81385b123025fd5bb5f3fdad1",
+                            "size": "124535006"
                         }
                     ],
                     "name": "gcc-arm-none-eabi",
                     "version": "8_2-2018q4"
+                },
+                {
+                    "systems": [
+                        {
+                            "host": "i686-mingw32",
+                            "checksum": "SHA-256:0d7b89ce5439474d8c390950b5c9713c51a62bd15270d061bc891c41797f071e",
+                            "size": "25967210",
+                            "archiveFileName": "gcc-mips-elf-4.4.2-rda8955.tar.gz",
+                            "url": "https://www.waybyte.in/arduino-dl/toolchain/gcc-mips-elf-4.4.2-rda8955.tar.gz"
+                        },
+                        {
+                            "host": "x86_64-mingw32",
+                            "checksum": "SHA-256:0d7b89ce5439474d8c390950b5c9713c51a62bd15270d061bc891c41797f071e",
+                            "size": "25967210",
+                            "archiveFileName": "gcc-mips-elf-4.4.2-rda8955.tar.gz",
+                            "url": "https://www.waybyte.in/arduino-dl/toolchain/gcc-mips-elf-4.4.2-rda8955.tar.gz"
+                        }
+                    ],
+                    "name": "gcc-mips-elf",
+                    "version": "4.4.2"
                 },
                 {
                     "version": "3.7.2-post1",
@@ -319,7 +360,7 @@
             "platforms": [
                 {
                     "name": "Logicrom Arduino",
-                    "architecture": "arm",
+                    "architecture": "opencpu",
                     "version": "0.5.0",
                     "category": "Contributed",
                     "archiveFileName": "arduino_logicrom_v0.5.0.tar.gz",
@@ -361,7 +402,7 @@
                 },
                 {
                     "name": "Logicrom Arduino",
-                    "architecture": "arm",
+                    "architecture": "opencpu",
                     "version": "0.7.0",
                     "category": "Contributed",
                     "archiveFileName": "arduino_logicrom_v0.7.0.tar.gz",
@@ -415,7 +456,7 @@
                 },
                 {
                     "name": "Logicrom Arduino",
-                    "architecture": "arm",
+                    "architecture": "opencpu",
                     "version": "0.8.0",
                     "category": "Contributed",
                     "archiveFileName": "arduino_logicrom_v0.8.0.tar.gz",
@@ -472,7 +513,7 @@
                 },
                 {
                     "name": "Logicrom Arduino",
-                    "architecture": "arm",
+                    "architecture": "opencpu",
                     "version": "0.9.0",
                     "category": "Contributed",
                     "archiveFileName": "arduino_logicrom_v0.9.0.tar.gz",
@@ -529,7 +570,7 @@
                 },
                 {
                     "name": "Logicrom Arduino",
-                    "architecture": "arm",
+                    "architecture": "opencpu",
                     "version": "0.9.1",
                     "category": "Contributed",
                     "archiveFileName": "arduino_logicrom_v0.9.1.tar.gz",
@@ -594,7 +635,7 @@
                 },
                 {
                     "name": "Logicrom Arduino",
-                    "architecture": "arm",
+                    "architecture": "opencpu",
                     "version": "0.9.2",
                     "category": "Contributed",
                     "archiveFileName": "arduino_logicrom_v0.9.2.tar.gz",
@@ -659,7 +700,7 @@
                 },
                 {
                     "name": "Logicrom Arduino",
-                    "architecture": "arm",
+                    "architecture": "opencpu",
                     "version": "0.9.3",
                     "category": "Contributed",
                     "archiveFileName": "arduino_logicrom_v0.9.3.tar.gz",
@@ -727,7 +768,7 @@
                 },
                 {
                     "name": "Logicrom Arduino",
-                    "architecture": "arm",
+                    "architecture": "opencpu",
                     "version": "0.9.4",
                     "category": "Contributed",
                     "archiveFileName": "arduino_logicrom_v0.9.4.tar.gz",
@@ -822,6 +863,124 @@
                         }
                     ],
                     "size": "27094167"
+                },
+                {
+                    "name": "Logicrom Arduino",
+                    "architecture": "opencpu",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "archiveFileName": "arduino_logicrom_v1.0.0.tar.gz",
+                    "checksum": "SHA-256:d2b5929b85e98d5e574c40fb9d277e3b866f197ddaa7a4a76e7307ef9abfa67b",
+                    "help": {
+                        "online": "https://docs.logicrom.com"
+                    },
+                    "url": "https://www.waybyte.in/arduino-dl/framework/arduino_logicrom_v1.0.0.tar.gz",
+                    "boards": [
+                        {
+                            "name": "Waybyte Logicrom Spark LTE-G"
+                        },
+                        {
+                            "name": "Quectel EC600U LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC200U LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EG915U LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Neoway N716 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Neoway N58 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Fibocom L610 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "SIMCOM A7670C (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC100N (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC100S (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC100Y (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC200N (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC200S (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC600N (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC600S (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EG912Y (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EG915N (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel M66"
+                        },
+                        {
+                            "name": "Quectel MC60"
+                        },
+                        {
+                            "name": "Quectel MC20"
+                        },
+                        {
+                            "name": "Quectel MC20UCB"
+                        },
+                        {
+                            "name": "Quectel M56"
+                        },
+                        {
+                            "name": "SIMCOM SIM868"
+                        },
+                        {
+                            "name": "AI-Thinker A9 GSM Module"
+                        },
+                        {
+                            "name": "AI-Thinker A9G GSM Module"
+                        },
+                        {
+                            "name": "Quectel MC65 GSM Module"
+                        },
+                        {
+                            "name": "Neoway M590 GSM Module"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "name": "gcc-arm-none-eabi",
+                            "packager": "logicrom",
+                            "version": "8_2-2018q4"
+                        },
+                        {
+                            "name": "logicromflasher",
+                            "packager": "logicrom",
+                            "version": "2.7.0"
+                        },
+                        {
+                            "name": "python3",
+                            "packager": "logicrom",
+                            "version": "3.7.2-post1"
+                        },
+                        {
+                            "name": "gcc-mips-elf",
+                            "packager": "logicrom",
+                            "version": "4.4.2"
+                        }
+                    ],
+                    "size": "25902223"
                 }
             ]
         }
