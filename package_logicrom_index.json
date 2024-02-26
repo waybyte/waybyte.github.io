@@ -355,6 +355,40 @@
                     ],
                     "name": "logicromflasher",
                     "version": "2.7.0"
+                },
+                {
+                    "systems": [
+                        {
+                            "host": "i686-mingw32",
+                            "checksum": "SHA-256:0b59f48c8c16795e6e979f91e7f4688df681a02b708d0158cf2cc2225e4edad9",
+                            "size": "11933473",
+                            "archiveFileName": "tool-logicromflasher_v2.8.0.tar.gz",
+                            "url": "https://waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.8.0.tar.gz"
+                        },
+                        {
+                            "host": "x86_64-apple-darwin",
+                            "checksum": "SHA-256:0b59f48c8c16795e6e979f91e7f4688df681a02b708d0158cf2cc2225e4edad9",
+                            "size": "11933473",
+                            "archiveFileName": "tool-logicromflasher_v2.8.0.tar.gz",
+                            "url": "https://waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.8.0.tar.gz"
+                        },
+                        {
+                            "host": "i686-pc-linux-gnu",
+                            "checksum": "SHA-256:0b59f48c8c16795e6e979f91e7f4688df681a02b708d0158cf2cc2225e4edad9",
+                            "size": "11933473",
+                            "archiveFileName": "tool-logicromflasher_v2.8.0.tar.gz",
+                            "url": "https://waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.8.0.tar.gz"
+                        },
+                        {
+                            "host": "x86_64-pc-linux-gnu",
+                            "checksum": "SHA-256:0b59f48c8c16795e6e979f91e7f4688df681a02b708d0158cf2cc2225e4edad9",
+                            "size": "11933473",
+                            "archiveFileName": "tool-logicromflasher_v2.8.0.tar.gz",
+                            "url": "https://waybyte.in/arduino-dl/flasher/tool-logicromflasher_v2.8.0.tar.gz"
+                        }
+                    ],
+                    "name": "logicromflasher",
+                    "version": "2.8.0"
                 }
             ],
             "platforms": [
@@ -967,7 +1001,7 @@
                         {
                             "name": "logicromflasher",
                             "packager": "logicrom",
-                            "version": "2.7.0"
+                            "version": "2.8.0"
                         },
                         {
                             "name": "python3",
