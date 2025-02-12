@@ -1015,6 +1015,127 @@
                         }
                     ],
                     "size": "25902223"
+                },
+                {
+                    "name": "Logicrom Arduino",
+                    "architecture": "opencpu",
+                    "version": "1.1.0",
+                    "category": "Contributed",
+                    "archiveFileName": "arduino_logicrom_v1.1.0.tar.gz",
+                    "checksum": "SHA-256:084ccd82bf83d0fccb21f03c6bb1674d48ff8e7cd9b8060f418268614dbdda1f",
+                    "help": {
+                        "online": "https://docs.logicrom.com"
+                    },
+                    "url": "https://www.waybyte.in/arduino-dl/framework/arduino_logicrom_v1.1.0.tar.gz",
+                    "boards": [
+                        {
+                            "name": "Waybyte Logicrom Spark LTE-G"
+                        },
+                        {
+                            "name": "Quectel EC600U LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC200U LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EG915U LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Neoway N716 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Neoway N58 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Fibocom L610 LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "SIMCOM A7670C (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC100N (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC100S (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC100Y (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC200N (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC200S (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC600N (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EC600S (ASR1601) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EG912Y (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel EG915N (ASR1603) LTE Cat.1 Module"
+                        },
+                        {
+                            "name": "Quectel M66"
+                        },
+                        {
+                            "name": "Quectel MC60"
+                        },
+                        {
+                            "name": "Quectel MC20"
+                        },
+                        {
+                            "name": "Quectel MC20UCB"
+                        },
+                        {
+                            "name": "Quectel M56"
+                        },
+                        {
+                            "name": "SIMCOM SIM868"
+                        },
+                        {
+                            "name": "AI-Thinker A9 GSM Module"
+                        },
+                        {
+                            "name": "AI-Thinker A9G GSM Module"
+                        },
+                        {
+                            "name": "Quectel MC65 GSM Module"
+                        },
+                        {
+                            "name": "Quectel MC25 GSM Module"
+                        },
+                        {
+                            "name": "Neoway M590 GSM Module"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "name": "gcc-arm-none-eabi",
+                            "packager": "logicrom",
+                            "version": "8_2-2018q4"
+                        },
+                        {
+                            "name": "logicromflasher",
+                            "packager": "logicrom",
+                            "version": "2.8.0"
+                        },
+                        {
+                            "name": "python3",
+                            "packager": "logicrom",
+                            "version": "3.7.2-post1"
+                        },
+                        {
+                            "name": "gcc-mips-elf",
+                            "packager": "logicrom",
+                            "version": "4.4.2"
+                        }
+                    ],
+                    "size": "26264194"
                 }
             ]
         }
